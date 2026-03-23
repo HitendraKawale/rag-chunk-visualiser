@@ -1,7 +1,5 @@
 # RAG Chunk Visualizer
 
-> An interactive app that makes retrieval augmented generation (RAG) visible.
-
 This project helps users **see and debug how RAG works internally** by visualizing:
 
 - document chunking
